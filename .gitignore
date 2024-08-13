@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+.eggs/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+.DS_Store
+
+# Database
+db.sqlite3
+
+# Static and media files
+staticfiles/
+media/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Django migrations
+**/migrations/*.pyc
+**/migrations/*.py
+
+# dotenv
+.env
+.env.local
+.env.production
+.env.testing
+.env.development

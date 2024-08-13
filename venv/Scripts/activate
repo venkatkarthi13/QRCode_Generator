@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="V:\FSD\Portfolio_projects\Qrcode_generator\QR_Code\venv"
+VIRTUAL_ENV="V:\FSD\Portfolio_projects\Qrcode_generator\QRcode\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
